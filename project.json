@@ -1,0 +1,19 @@
+{
+  "overview": "A clean, minimal Hello World web application with a centered greeting, theme toggle, and polished typography.",
+  "features": [
+    "Centered Hello World hero section",
+    "Light and dark theme toggle",
+    "Custom font and polished typography",
+    "Minimal header and footer",
+    "Smooth hover transitions",
+    "Fully responsive layout"
+  ],
+  "category": "showcase",
+  "tags": [
+    "hello-world",
+    "minimal",
+    "showcase",
+    "tailwind"
+  ],
+  "last_updated": "2026-06-09T18:16:07.057Z"
+}
